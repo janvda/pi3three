@@ -3,7 +3,8 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-node-emoncms": "0.1.0"
+        "node-red-node-emoncms": "0.1.0",
+        "node-red-dashboard": "2.9.1"
     },
     "node-red": {
         "settings": {
